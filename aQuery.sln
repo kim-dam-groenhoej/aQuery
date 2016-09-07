@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "aQueryLib", "..\aQuery Library\aQueryLib.vbproj", "{048720B1-E6D9-402E-B0DE-B0979D4E13FC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "aQuery", "..\aQuery Project\aQuery.vbproj", "{768316F2-CE2F-4F9C-9550-F1D716F172AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{048720B1-E6D9-402E-B0DE-B0979D4E13FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048720B1-E6D9-402E-B0DE-B0979D4E13FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048720B1-E6D9-402E-B0DE-B0979D4E13FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048720B1-E6D9-402E-B0DE-B0979D4E13FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768316F2-CE2F-4F9C-9550-F1D716F172AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768316F2-CE2F-4F9C-9550-F1D716F172AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768316F2-CE2F-4F9C-9550-F1D716F172AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768316F2-CE2F-4F9C-9550-F1D716F172AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
